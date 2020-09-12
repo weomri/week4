@@ -1,11 +1,6 @@
-# Am I doing this right?
-
-## I'm trying to create a **README.md** file
-
-
-I need to:
-1. create the file
-2. write *code*
-3. make it a website
-
-`help me`
+# Peer-graded Assignment: Bash, Make, Git, and GitHub
+makefile was run on Sat Sep 12 15:57:21 2020 
+The number of code-lines in guessinggame.sh. is 
+# Peer-graded Assignment: Bash, Make, Git, and GitHub
+makefile was run on Sat Sep 12 15:57:48 2020 
+The number of code-lines in guessinggame.sh. is 31 guessinggame.sh
