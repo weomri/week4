@@ -1,6 +1,6 @@
-#Am I doing this right?
+# Am I doing this right?
 
-##I'm trying to create a **README.md** file
+## I'm trying to create a **README.md** file
 
 
 I need to:
