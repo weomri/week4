@@ -1,3 +1,3 @@
 # Peer-graded Assignment: Bash, Make, Git, and GitHub
-makefile was run on Sat Sep 12 16:11:41 2020 
-The number of code-lines in guessinggame.sh. is 21 guessinggame.sh
+1. makefile was run on Sat Sep 12 16:21:57 2020 
+2. The number of code-lines in guessinggame.sh. is 21
